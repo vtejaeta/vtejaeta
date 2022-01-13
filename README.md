@@ -19,22 +19,22 @@
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vtejaeta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viswa Teja's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtejaeta&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vtejaeta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viswa Teja's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtejaeta&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
 #### Top Repositories
 
-
 <a href="https://github.com/vtejaeta/youtube-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtejaeta&repo=youtube-clone&theme=buefy" />
 </a>
+
 <a href="https://github.com/vtejaeta/Movie-library-TypeScript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtejaeta&repo=Movie-library-TypeScript&theme=buefy" />
 </a>
 
-<br />
 
+<br />
 
 <a href="https://twitter.com/vtejaeta">
   <img alt="Viswa Teja Eatha | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
