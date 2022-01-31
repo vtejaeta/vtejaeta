@@ -23,17 +23,6 @@
 | ------------- | ------------- |
 
 
-#### Top Repositories
-
-<a href="https://github.com/vtejaeta/youtube-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtejaeta&repo=youtube-clone&theme=buefy" />
-</a>
-
-<a href="https://github.com/vtejaeta/Movie-library-TypeScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtejaeta&repo=Movie-library-TypeScript&theme=buefy" />
-</a>
-
-
 <br />
 
 <a href="https://twitter.com/vtejaeta">
