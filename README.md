@@ -3,7 +3,7 @@
 <br />
 
 **About me**
-- Engineer-Technology at [Virtusa](https://www.virtusa.com/)
+- Frontend Web developer at [PerspectAI](https://perspect.ai/)
 - I love building interactive frontend web apps
 - I'm currently learning TypeScript, Web performance
 - Ask me about anything [here](https://github.com/vtejaeta/vtejaeta/issues)
